@@ -1,0 +1,11 @@
+opencv-python
+cvzone
+# mediapipe
+
+# You cannot be install face_recognition without dlib, and dlib cannot be install without cmake
+face_recognition
+dlib
+# WARNING: If error happened during dlib installation, download the package manually and
+# paste the file here => venv/Lib/site-packages/dlib-19.22.99-cp38-cp38-win_amd64.whl
+
+firebase_admin
